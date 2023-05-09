@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Order Summary](https://your-solution-url.com)
+- Solution URL: [Order Summary](https://dejair-velozo.github.io/order-summary-component-main/)
 
 ### Built with
 
